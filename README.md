@@ -1,4 +1,4 @@
-#</dev.team> | AIESEC in Sri Lanka
+# </dev.team> | AIESEC in Sri Lanka
 
 
 This repository is to be used for internal work of the Development Team of AIESEC in Sri Lanka.
@@ -9,4 +9,3 @@ This repository is to be used for internal work of the Development Team of AIESE
 * Akthar Farvees - Team Member
 * Nikila Fernando - Team Member
 * Yashith Edirisinghe
-* 
